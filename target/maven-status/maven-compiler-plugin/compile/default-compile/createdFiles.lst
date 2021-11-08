@@ -1,0 +1,5 @@
+basePage\BasePage.class
+pages\RegisterPage.class
+pages\SearchResultsPage.class
+pages\AddToCart.class
+pages\HomePage.class

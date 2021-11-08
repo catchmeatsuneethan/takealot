@@ -1,0 +1,6 @@
+stepDefinations\gui\Basket.class
+runnerFile\TestRunner.class
+stepDefinations\api\WeatherApiSteps.class
+stepDefinations\gui\RegisterNewUserSteps.class
+stepDefinations\BaseTest.class
+stepDefinations\gui\SearchSteps.class

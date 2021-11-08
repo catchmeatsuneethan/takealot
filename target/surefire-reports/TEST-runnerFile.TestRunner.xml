@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="7" failures="0" name="runnerFile.TestRunner" time="3.587" errors="0" skipped="0">
+  <properties>
+    <property name="idea.version" value="2021.1"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="cucumber.options" value="--tags  @gui_basket_registerUSer"/>
+    <property name="java.vm.version" value="11.0.9+7-LTS"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.9\bin"/>
+    <property name="browser" value="chrome"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\SuneethaRahul\Downloads\TakeHomeTest\takealot.com"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="GB"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\SuneethaRahul\Downloads\TakeHomeTest\takealot.com"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="java.runtime.version" value="11.0.9+7-LTS"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\SUNEET~1\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="maven.ext.class.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2021.1\plugins\maven\lib\maven-event-listener.jar"/>
+    <property name="classworlds.conf" value="C:\Program Files\JetBrains\IntelliJ IDEA 2021.1\plugins\maven\lib\maven3\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.9\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Jars\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\nodejs\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Groovy\Groovy-3.0.0\bin;C:\Users\SuneethaRahul\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\dotnet\;C:\Users\SuneethaRahul\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\SuneethaRahul\AppData\Local\Programs\Python\Python38-32\;C:\Users\SuneethaRahul\AppData\Local\Microsoft\WindowsApps;C:\Program Files\apache-maven-3.3.9\bin;C:\Program Files\gradle-3.4.1-bin\gradle-3.4.1\bin;C:\Program Files\Java\jdk1.8.0_121\bin;C:\Softwares\wildfly-10.1.0.Final\bin;C:\Program Files\MongoDB\Server\3.4\bin;C:\Users\SuneethaRahul\AppData\Roaming\npm;C:\Program Files\nodejs;C:\Program Files\Java\jdk1.8.0_131\bin;C:\Program Files\Docker Toolbox;C:\Users\SuneethaRahul\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\PyCharm 2019.1.2\bin;;;C:\Program Files\JetBrains\IntelliJ IDEA 2021.1\bin;;C:\Users\SuneethaRahul\.dotnet\tools;."/>
+    <property name="maven.conf" value="C:\Program Files\JetBrains\IntelliJ IDEA 2021.1\plugins\maven\lib\maven3/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\SuneethaRahul"/>
+    <property name="user.timezone" value="Europe/London"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="user.name" value="SuneethaRahul"/>
+    <property name="java.class.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2021.1\plugins\maven\lib\maven3\boot\plexus-classworlds-2.6.0.jar;C:\Program Files\JetBrains\IntelliJ IDEA 2021.1\plugins\maven\lib\maven3\boot\plexus-classworlds.license"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2021.1 clean -Dcucumber.options=--tags  @gui_basket_registerUSer -Dbrowser=chrome install"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11.0.9"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="11.0.9"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Program Files\JetBrains\IntelliJ IDEA 2021.1\plugins\maven\lib\maven3"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2020-10-20"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="Given As a user I am on the takealot.com Homepage(| Garmin Forerunner 45S Sports Smartwatch (39mm) - Iris |)" name="Given As a user I am on the takealot.com Homepage(| Garmin Forerunner 45S Sports Smartwatch " time="0.003"/>
+  <testcase classname="And I register as a new user(| Garmin Forerunner 45S Sports Smartwatch (39mm) - Iris |)" name="And I register as a new user(| Garmin Forerunner 45S Sports Smartwatch " time="0"/>
+  <testcase classname="And verify a new user is created(| Garmin Forerunner 45S Sports Smartwatch (39mm) - Iris |)" name="And verify a new user is created(| Garmin Forerunner 45S Sports Smartwatch " time="0"/>
+  <testcase classname="When I add the &quot;Garmin Forerunner 45S Sports Smartwatch (39mm) - Iris&quot; to basket(| Garmin Forerunner 45S Sports Smartwatch (39mm) - Iris |)" name="When I add the &quot;Garmin Forerunner 45S Sports Smartwatch (39mm) - Iris&quot; to basket(| Garmin Forerunner 45S Sports Smartwatch " time="0"/>
+  <testcase classname="Then I verify the &quot;Garmin Forerunner 45S Sports Smartwatch (39mm) - Iris&quot; is added in the basket(| Garmin Forerunner 45S Sports Smartwatch (39mm) - Iris |)" name="Then I verify the &quot;Garmin Forerunner 45S Sports Smartwatch (39mm) - Iris&quot; is added in the basket(| Garmin Forerunner 45S Sports Smartwatch " time="0"/>
+  <testcase classname="And I verify the qty is 1 on the basket(| Garmin Forerunner 45S Sports Smartwatch (39mm) - Iris |)" name="And I verify the qty is 1 on the basket(| Garmin Forerunner 45S Sports Smartwatch " time="0"/>
+  <testcase classname="| Garmin Forerunner 45S Sports Smartwatch (39mm) - Iris |" name="| Garmin Forerunner 45S Sports Smartwatch " time="3.584"/>
+</testsuite>
