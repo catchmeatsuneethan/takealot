@@ -1,6 +1,5 @@
 
-################################### LocalMachine ########################################################
-
+############################# LocalMachine ###################
 How to run UI tests on local machine 
 
 To run test on local machine follow the steps:
@@ -16,13 +15,13 @@ To run test on local machine follow the steps:
 open terminal from the project folder and type :
 mvn clean "-Dcucumber.options=--tags  @gui_basket_registerUSer" -Dbrowser=chrome-local install
 
-################################### API ########################################################
+################################### API ##########################
 
 open terminal from the project folder and type :
 
 mvn clean "-Dcucumber.options=--tags @Api" -Dbrowser=API install
 
-################################### BrowserSTack ########################################################
+################################### BrowserSTack #######################
 The username and password on browser stack had been created on free trial, and it may be valid for a week to run tests
 To run test on Browser stack cloud  follow the steps:
 
