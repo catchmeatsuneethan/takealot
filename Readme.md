@@ -1,5 +1,7 @@
 
 ############################# LocalMachine ###################
+
+
 How to run UI tests on local machine 
 
 To run test on local machine follow the steps:
